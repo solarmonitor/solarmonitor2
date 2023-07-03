@@ -8,7 +8,9 @@ assignees: ''
 ---
 
 ** Describe the issue with the data **
-Is the missing data, bad or corrupted for something else?
+What did you expect to see?
+What did you actually see?
+Is the missing data, bad, corrupted or something else?
 
 **Additional context**
 Add any other context or screenshots about the missing data here.
