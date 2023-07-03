@@ -17,6 +17,10 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error
 
+**When did this occur?**
+
+If you give us a close estimate of the time the error occured it can help us track down the cause.
+
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
